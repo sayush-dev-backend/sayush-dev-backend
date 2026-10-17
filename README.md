@@ -1,31 +1,49 @@
 # Hey, I'm Ayush Singh 👋
 
-### Backend & Cloud Engineer building reliable AI systems
+### Backend & Cloud Engineer | Building Reliable Agentic AI Systems
 
-I build backend services and cloud infrastructure, with a focus on reliability, performance, automation, and production operations.
+I’m a software engineer with experience building backend services, cloud infrastructure, and production systems. I care about reliability, performance, automation, and solving real engineering problems.
 
-I'm now applying that foundation to **Agentic AI and AI Infrastructure** — exploring how to build AI systems that are observable, secure, cost-effective, and reliable beyond demos.
+Currently, I’m expanding into **Agentic AI and AI Infrastructure**, applying my backend and cloud foundation to build AI systems that work reliably beyond demos.
 
-### 🛠️ Engineering Focus
+## 🛠️ Tech Stack
 
-* **Backend:** Node.js, REST APIs, PostgreSQL, Redis
-* **Cloud & Infrastructure:** AWS, Docker, Terraform, CI/CD
-* **Distributed Systems:** Event-driven architecture, queues, caching, performance optimization
-* **Current AI Focus:** Python, LLM gateways, RAG, agent workflows, evaluation
+**Backend:** Node.js, REST APIs, PostgreSQL, Redis
 
-### 🚧 What I'm Building
+**Cloud & Infrastructure:** AWS, Docker, Terraform, CI/CD
 
-* An LLM gateway with retries, provider abstraction, and usage tracking
-* Production-oriented RAG and agent workflows
-* Evaluation and observability tools for AI applications
+**Systems Engineering:** Event-driven architecture, queues, caching, performance optimization, production reliability
 
-### 🎯 My Engineering Philosophy
+**Current Learning & Projects:** Python, LLM applications, RAG, agent workflows, AI evaluation
 
-Build systems that work reliably in production—not just impressive demos.
+## 🚀 What I'm Building
 
-I share practical experiments, architecture decisions, trade-offs, and lessons learned while building toward AI systems engineering.
+* **LLM Gateway** — exploring provider abstraction, retries, observability, and usage tracking.
+* **Production RAG** — exploring reliable retrieval pipelines and evaluation.
+* **Agent Engineering** — building workflows with tool use, structured outputs, and failure handling.
 
-### 🤝 Connect
+*Projects will be linked here as working implementations become available.*
+
+## 🧠 Engineering Principles
+
+* Design for production, not just demos.
+* Measure performance before claiming improvements.
+* Make systems observable, secure, and maintainable.
+* Document trade-offs and learn from failures.
+
+## 📌 Current Focus
+
+Building in public as I grow from backend and cloud engineering into agentic AI, AI infrastructure, and Forward Deployed Engineering.
+
+## 🤝 Connect
 
 * [LinkedIn](linkedin.com/in/ayush-singh-76a477208)
+* **Portfolio:** Coming soon
+
+---
+
+*Building reliable systems at the intersection of backend engineering, cloud infrastructure, and AI.*
+
+
+
 
