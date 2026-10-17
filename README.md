@@ -37,7 +37,7 @@ Building in public as I grow from backend and cloud engineering into agentic AI,
 
 ## 🤝 Connect
 
-* [LinkedIn](linkedin.com/in/ayush-singh-76a477208)
+- **LinkedIn:** [Ayush Singh](https://linkedin.com/in/ayush-singh-76a477208)
 * **Portfolio:** Coming soon
 
 ---
