@@ -22,7 +22,7 @@ Currently, I’m expanding into **Agentic AI and AI Infrastructure**, applying m
 * **Production RAG** — exploring reliable retrieval pipelines and evaluation.
 * **Agent Engineering** — building workflows with tool use, structured outputs, and failure handling.
 
-*Projects will be linked here as working implementations become available.*
+
 
 ## 🧠 Engineering Principles
 
